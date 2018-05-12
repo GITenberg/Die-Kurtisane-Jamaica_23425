@@ -1,0 +1,33 @@
+_repo: Die-Kurtisane-Jamaica_23425
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bethge, Hans
+    birthdate: 1876
+    deathdate: 1946
+    gutenberg_agent_id: '2991'
+    url: http://www.gutenberg.org/2009/agents/2991
+    wikipedia: http://de.wikipedia.org/wiki/Hans_Bethge
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2007-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23425'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Germany -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Short stories'
+- !lcsh 'Germany, Northern -- Fiction'
+tableOfContents: "Die Kurtisane Jamaica\r\nSchloß Carnin\r\nDas Bildnis der Geliebten\r\
+  \nNebelnacht\r\nEbeth\r\nDie Hochzeit des Freundes"
+title: Die Kurtisane Jamaica
+url: http://www.gutenberg.org/ebooks/23425
